@@ -49,16 +49,25 @@ To the mentors and the entire VSD initiative: thank you for opening the doors of
 
 ## 🔧 Toolbox & Installation Proofs  
 
-### 1️⃣ Yosys
+### 1️⃣ GTK Wave
+
+```bash
+sudo apt install gtkwave
+gtkwave --version
+```
+
+
+### 2️⃣ Yosys
 Open-source synthesis tool:  
 ```bash
 sudo apt install yosys
 yosys --version
+```
 
-## 💫 Closing Note  
-This repo is not just tasks.  
-It’s **my silicon diary**.  
-Every commit here is a step closer to my dream of becoming a designer who can turn equations into chips and ideas into impact.  
-
-🌸 *— Neeharika Chauhan*  
+### 3️⃣ Icarus Verilog
+RTL simulation tool:
+```bash
+sudo apt install iverilog
+iverilog -v
+```
 
