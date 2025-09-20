@@ -55,6 +55,11 @@ To the mentors and the entire VSD initiative: thank you for opening the doors of
 sudo apt install gtkwave
 gtkwave --version
 ```
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/neeh-prog/Neeharika--Silicon-Saga/blob/main/gtk%20wave.png"
+       alt="Yosys Installed" width="600"/>
+</p>
 
 
 ### 2️⃣ Yosys
@@ -63,6 +68,12 @@ Open-source synthesis tool:
 sudo apt install yosys
 yosys --version
 ```
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/neeh-prog/Neeharika--Silicon-Saga/blob/main/yosys.png"
+       alt="Yosys Installed" width="600"/>
+</p>
+
 
 ### 3️⃣ Icarus Verilog
 RTL simulation tool:
@@ -70,4 +81,17 @@ RTL simulation tool:
 sudo apt install iverilog
 iverilog -v
 ```
+## 📷 **Installation Verification**
+<p align="center">
+  <img src="https://github.com/neeh-prog/Neeharika--Silicon-Saga/blob/main/iverilog%20(1).png"
+       alt="Yosys Installed" width="600"/>
+</p>
+
+## 💫 Closing Note  
+This repo is not just tasks.  
+It’s **my silicon diary**.  
+Every commit here is a step closer to my dream of becoming a designer who can turn equations into chips and ideas into impact.  
+
+🌸 *— Neeharika Chauhan*  
+
 
